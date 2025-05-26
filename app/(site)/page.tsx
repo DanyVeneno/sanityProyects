@@ -15,7 +15,7 @@ export default async function Home() {
         </span>
       </h1>
       <p className='mt-3 text-xl text-gray-600'>
-        !Bienvenidos! Disrupt yourself or not!
+        Atrévete al Cambio, Transformate a lo Digital
       </p>
       <h2 className='mt-24 font-bold text-gray-700 text-3xl'>
         Algunos Proyectos
