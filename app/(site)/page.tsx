@@ -18,7 +18,7 @@ export default async function Home() {
         Atrévete al Cambio, Transformate a lo Digital
       </p>
       <h2 className='mt-24 font-bold text-gray-700 text-3xl'>
-        Algunos Proyectos
+        Algunos Proyectos con diferentes tecnolgías
       </h2>
 
       <div className='mt-5 grid md:grid-cols-2 lg:grid-cols-3 gap-8'>
